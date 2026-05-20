@@ -106,21 +106,7 @@ Seeking a position as a **Data Analyst / Business Intelligence Analyst / Power B
 - Exploratory Data Analysis (EDA)  
 - Insight visualization using Python  
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dilan-analytics&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilan-analytics&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
